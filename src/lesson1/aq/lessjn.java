@@ -20,8 +20,8 @@ public class lessjn {
         System.out.println(result);
 
         int formulaResult = n * (n+1)/2;
-   */     System.out.println("Formula : " + formulaResult);
-
+        System.out.println("Formula : " + formulaResult);
+*/
 
 
     }
