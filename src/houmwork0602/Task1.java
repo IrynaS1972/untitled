@@ -1,7 +1,7 @@
 package houmwork0602;
 
 import java.util.Scanner;
-
+//почему все закомментировано? Мне надо это проверять?
 public class Task1 {
     public static void main(String[] args) {
         //вывести таблицу умножения, используя двумерный массив
