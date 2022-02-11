@@ -10,6 +10,7 @@ public class Task2 {
         System.out.println("Enter number:");
         for (int i = 0; i < array.length; i++) {
             int j;
+//а где проверка введённого пользователем числа? Тут я вижу только заполнение массива, хотя он уже и так заполнен выше
             for (j = 0; j < array[i].length; j++) {
                 array[i][j] = scanner.nextInt();
 
