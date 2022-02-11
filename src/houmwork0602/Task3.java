@@ -8,6 +8,7 @@ public class Task3 {
             int j;
             for (j = 0; j < array[i].length; j++) {
             }
+//это сложение индексов, но не элементов. Элементы мы получаем по индексам. К ним надо обратиться
             int k = i + j;
             System.out.println(k);
         }
